@@ -1,2 +1,2 @@
-![Hotware](img/logo/logo_orange.png)
+![Hotware](img/logo/logo.png)
 # TC2005B Equipo Actividades - Hotware
